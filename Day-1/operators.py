@@ -1,8 +1,8 @@
 # Assignment operators: =, +=, -=
-# price=float(input("Enter Product Price "))
-# discount=price*0.10
-# disPrice=price-discount
-# print(f"Price: {price} \n Discount: {discount} \nDiscounted Price:{disPrice}")
+price=float(input("Enter Product Price "))
+discount=price*0.10
+disPrice=price-discount
+print(f"Price: {price} \n Discount: {discount} \nDiscounted Price:{disPrice}")
 
 # salary=50000.50
 # bonus=5000.60
@@ -36,7 +36,7 @@
 # else:
 #     print("Clear in Exam")
 
-#accessCode="wes12"
+# accessCode="wes12"
 # accessCode=input("Enter Access Code")
 # if(accessCode!="wes12"):
 #     print("Invalid Access Code ")
@@ -50,7 +50,7 @@
 # else:
 #     print("Invalid Access Code")
 
-#Logical operators: and, or, not.
+# Logical operators: and, or, not.
 # physicMarks=int(input("Enter marks obtaines in Physics: "))
 # cheMarks=int(input("Enter marks obtain in chemistry: "))
 # mathMarks=int(input("Enter marks obtain in Mathematics: "))
@@ -74,8 +74,8 @@
 # else:
 #     print("Eligible for Btech")
 
-name=input("Enter User Name")
-if(not name):
-    print("Error!!!")
-else:
-    print("Welcome",name)
+# name=input("Enter User Name")
+# if(not name):
+#     print("Error!!!")
+# else:
+#     print("Welcome",name)

@@ -2,7 +2,7 @@
 
 # print("First Example")
 # print("1 to 9 \n")
-# for i in range(10):
+# for i in range(1,10):
 #     print(i)
 
 # print("Second Example")
@@ -45,17 +45,17 @@
 #     print(ch)
 
 #Request Number for Table
-num=int(input('Please enter number to find out the table: \t'))
-print(f'Table of Number {num} as follows \n')
-for i in range(1,13):
-    print(f'{num}*{i}=\t{num*i}')
+# num=int(input('Please enter number to find out the table: \t'))
+# print(f'Table of Number {num} as follows \n')
+# for i in range(1,13):
+#     print(f'{num}*{i}=\t{num*i}')
 
 #Tuple - A tuple is an immutable data type in python.
 #One example of tuple using for loop
 
 # players=('MSD','VK','KL','RS')
-# for players in players:
-#     print(players)
+# for player in players:
+#     print(player)
 
 # players=('Messi','Veron','Kane','Ronaldo')
 # for player in players:
